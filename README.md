@@ -10,12 +10,13 @@ The objective of this analysis is to valuate and prioritize hypotheses in collab
 ## 🛠️ Tools and Technologies
 - Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook
+- A/B Test
 - Visualizations with ploty
 
 ## 🔍 Analysis steps
 1. Data cleaning/treatment of duplicated values
 2. Exploratory analysis based in groups A and B
-3. Correlations between the groups and key insights with charts
+3. Correlations between the A and B groups and key insights with charts
 4. Conclusions
 
 ## 📁 Files
