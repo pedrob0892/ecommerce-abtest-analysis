@@ -17,7 +17,8 @@ The objective of this analysis is to valuate and prioritize hypotheses in collab
 1. Data cleaning/treatment of duplicated values
 2. Exploratory analysis based in groups A and B
 3. Correlations between the A and B groups and key insights with charts
-4. Conclusions
+4. ICE and RICE frameworks application for hypothesis priorizing
+5. Conclusions
 
 ## 📁 Files
 - `ecommerce-ABtest-analysis(english).ipynb` → notebook with all codes and visualizations
@@ -35,13 +36,15 @@ Avaliar e priorizar hipóteses em colaboração com o marketing, conduzindo um t
 ## 🛠️ Ferramentas e Tecnologias
 - Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook
+- A/B Test
 - Visualizações com ploty
 
 ## 🔍 Etapas da análise
 1. Limpeza e tratamento dos dados (valores ausentes e duplicados)
 2. Análise exploratória baseada nos grupos A e B
 3. Correlações entre os grupos e insights principais com gráficos
-4. Conclusões
+4. Aplicação dos frameworks ICE e RICE para priorizar hipóteses
+5. Conclusões
 
 ## 📁 Arquivos
 - `ecommerce-ABtest-analysis(português).ipynb` → arquvivo notebook com todos os códigos e visualizações
